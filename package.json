@@ -1,6 +1,6 @@
 {
     "name": "rollup-plugin-pino-bundle",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Rollup plugin for bundling PinoJS logger with transports",
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
@@ -45,6 +45,11 @@
         "name": "SoulEat",
         "email": "souleat.work@gmail.com",
         "url": "https://github.com/soul2eat"
+    },
+    "homepage": "https://github.com/soul2eat/rollup-plugin-pino-bundle",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/soul2eat/rollup-plugin-pino-bundle"
     },
     "license": "MIT",
     "devDependencies": {
